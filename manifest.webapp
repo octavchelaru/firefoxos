@@ -1,7 +1,7 @@
 {
     "version": "2",
     "name": "Test POC",
-    "launch_path": "/Launch/index.html",
+    "launch_path": "/firefoxos/Launch/index.html",
     "description": "Different Test Cases",
     "icons": {
         "16": "http://octavchelaru.github.io/firefoxos/icon_16x16.png",
